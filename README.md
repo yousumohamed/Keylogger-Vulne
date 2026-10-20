@@ -4,6 +4,8 @@
 
 A small Python tool that:
 
+![Live dashboard screenshot](image.png)
+
 * Captures keyboard input on the machine it runs on using `pynput`.
 * Serves a live dashboard at `http://127.0.0.1:8000` showing recent keystrokes with timestamps.
 * Writes a plain-text log to `log.txt` next to the executable.
