@@ -1,5 +1,12 @@
 # Local Keystroke Visualizer
 
+<p align="center">
+  <img alt="Language: Python" src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Input: pynput" src="https://img.shields.io/badge/INPUT-PYNPUT-6C6C78?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Packaging: PyInstaller" src="https://img.shields.io/badge/PACKAGING-PYINSTALLER-2EA44F?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Build target: Windows" src="https://img.shields.io/badge/BUILD%20TARGET-WINDOWS-E76F22?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
 ## What this is
 
 A small Python tool that:
