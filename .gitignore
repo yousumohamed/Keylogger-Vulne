@@ -1,0 +1,23 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# PyInstaller output
+/build/
+/dist/
+
+# Runtime keystroke logs
+/log.txt
+
+# Local environment and editor/OS files
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
